@@ -1,0 +1,10 @@
+@article{byra2023exploring,
+  title={Exploring the performance of implicit neural representations for brain image registration},
+  author={Byra, Michal and Poon, Charissa and Rachmadi, Muhammad Febrian and Schlachter, Matthias and Skibbe, Henrik},
+  journal={Scientific Reports},
+  volume={13},
+  number={1},
+  pages={17334},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
