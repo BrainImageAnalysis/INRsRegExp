@@ -8,7 +8,7 @@ INRs serve as a continuous, coordinate-based approximation of the deformation fi
 
 In our work, we investigated various registration approaches based on implicit networks. 
 
-- example_custom presents a simple pytorch code illustrating 
+- example_custom presents a simple pytorch code illustrating how to perform the registration with a SIREN model.
 
 # About
 
