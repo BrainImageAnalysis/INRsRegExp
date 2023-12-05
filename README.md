@@ -12,7 +12,7 @@ In our work, we investigated various registration approaches based on implicit n
 
 # About
 
-If you find this site useful for your work, consider citing our paper ([bibtex](figures/sci_rep_cit.txt)): 
+If you find this repository useful for your work, consider citing our paper ([bibtex](figures/sci_rep_cit.txt)): 
 
 [Byra, M., Poon, C., Rachmadi, M.F., Schlachter M., Skibbe H. Exploring the performance of implicit neural representations for brain image registration. Sci Rep 13, 17334 (2023)](https://doi.org/10.1038/s41598-023-44517-5)
 
